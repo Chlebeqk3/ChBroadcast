@@ -1,0 +1,10 @@
+name: ChBroadcast
+version: 1.0
+main: pl.chlebek.broadcast.Main
+author: Chlebek
+
+commands:
+  broadcast:
+    aliases: bc
+  sbroadcast:
+    aliases: sbc

@@ -1,0 +1,4 @@
+noPermissions: "&cNie masz uprawnien!" # Wiadomosc o braku uprawnien
+broadcastPrefix: "&7[Info] >" # Prefix wiadomosci
+staffBroadcastPrefix: "&c&l[Chat dla adminow]" # Prefix wiadomosci (/sbroadcast)
+staffBroadcastPermission: "chbc.staff" # Uprawnienie dodaje gracza do grupy odbiorcow /sbroadcast
